@@ -1,20 +1,19 @@
-# Khabr — منصة أخبار وتحليلات سياسية لسوريا والشرق الأوسط
-**Khabr — Syria & Middle East News Analysis Platform** · التصنيف: موقع محتوى
-> ملف تعريفي بالمشروع ونطاقه؛ هذا المستودع يحتوي على التوثيق فقط ولا يتضمن الشفرة المصدرية.
-> Project overview and scope; this repository contains documentation only, not implementation source code.
+# Khabr — Syria & Middle East News Analysis Platform
+**Khabr — Syria & Middle East News Analysis Platform** · Category: Content website
+> Project overview and scope; this repository contains documentation only and does not include implementation source code.
 
-## نبذة عن المشروع
-موقع أخبار وتحليلات سياسية موجّه للسوريين في الداخل والخارج، بتحديثات يومية وتحليلات معمقة وتقارير إنسانية وخرائط تفاعلية وأرشيف زمني للأحداث.
+## Project overview
+A news and political analysis website aimed at Syrians inside and outside the country, with daily updates, in-depth analyses, humanitarian reports, interactive maps, and a chronological archive of events.
 
-## أبرز النقاط
-- خرائط تفاعلية للمناطق ومناطق السيطرة، وأرشيف زمني للأحداث
-- تحديثات يومية للأوضاع السياسية والأمنية مع تحليلات معمقة من محللين
-- استضافة Cloudflare، تأمين SSL، ومتوافق مع سياسات AdSense/Adsterra/Monetag/Zeydoo
+## Highlights
+- Interactive maps of areas and control zones, and a chronological archive of events
+- Daily updates on political and security conditions with in-depth analyses from analysts
+- Hosted on Cloudflare, SSL secured, and compliant with AdSense/Adsterra/Monetag/Zeydoo policies
 
-## الدور
-تطوير منصة أخبار وتحليلات عربية تشمل تنظيم المحتوى والأرشفة والعرض التفاعلي المتجاوب.
+## Role
+Developing an Arabic news and analysis platform that includes content organization, archiving, and responsive interactive presentation.
 
-## التقنيات المستخدمة
+## Technologies used
 HTML/CSS/JS, Cloudflare Pages, SSL/HTTPS, SEO, AdSense
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
